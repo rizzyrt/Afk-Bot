@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "SSA__SMP.aternos.me",
     "port": 25565,
     "version": "1.19.3"
   },
